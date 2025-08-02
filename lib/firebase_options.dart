@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyABhqSryIGFYADbOWm6E8M4R-kdFLzONY8',
+    apiKey: '123',
     appId: '1:974474056616:android:df10a2dbdcc34cffb2039d',
     messagingSenderId: '974474056616',
     projectId: 'chatapppet',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDJL9mn8kHhhJXGuiyysyG91U4QnVaLrpg',
+    apiKey: '123',
     appId: '1:974474056616:web:eb7777399a139a18b2039d',
     messagingSenderId: '974474056616',
     projectId: 'chatapppet',
